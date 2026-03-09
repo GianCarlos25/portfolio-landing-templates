@@ -30,7 +30,7 @@ Open `index.html` in any modern browser — no build step required.
 | **Tech Ticker** | Auto-scrolling marquee of technologies |
 | **Projects** | 4 featured projects with CSS mockup screenshots, tech tags, and links |
 | **Experience** | Timeline of 4 roles with descriptions and skill tags |
-| **Contact** | Split layout with social links + contact form |
+| **Contact** | Split layout with social links + contact form |https://github.com/GianCarlos25/portfolio-landing-templates.git
 
 ## Tech Stack
 
