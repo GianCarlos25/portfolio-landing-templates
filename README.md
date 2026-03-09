@@ -1,4 +1,4 @@
-# Elena Vargas — Data Scientist Portfolio
+# Elena — Data Scientist Portfolio
 
 A modern, responsive portfolio landing page built for a data scientist. Designed to showcase technical projects, skills, and professional experience with a clean, visually striking aesthetic that stands out to recruiters and hiring managers.
 
